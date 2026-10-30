@@ -37,7 +37,7 @@ The main objectives of this project are to:
 | ----------------------------| ------------------------------|-------------------------------|
 | Check IP address            | ip z                          | Correct Kali IP displayed     |
 | Test gateway                | ping 10.0.0.1                 | Successful replies            |
-| Test Internet connectivity  | ping 8.8.8.8                  | Successful replies            |<br><br>
+| Test Internet connectivity  | ping 8.8.8.8                  | Successful replies            |<br><br><br>
 
 <b>What I Learned:</b><br>
 Through this project, I learned how to set up and configure a virtual environment for cybersecurity practice using VirtualBox. 
