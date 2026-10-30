@@ -39,7 +39,7 @@ The main objectives of this project are to:
 | Test gateway                | ping 10.0.0.1                 | Successful replies            |
 | Test Internet connectivity  | ping 8.8.8.8                  | Successful replies            |<br><br><br>
 
-<b>What I Learned:</b><br>
+<b>* What I Learned:</b><br>
 Through this project, I learned how to set up and configure a virtual environment for cybersecurity practice using VirtualBox. 
 I understood following things:
 1. I understood the difference between NAT and NAT Network and how virtual machines communicate with each other.
